@@ -1,0 +1,143 @@
+{
+  "info": {
+    "_postman_id": "d1092d6e-5230-49f8-895f-d42a5fa652e2",
+    "name": "User",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "45500162",
+    "_collection_link": "https://go.postman.co/collection/45500162-d1092d6e-5230-49f8-895f-d42a5fa652e2?source=collection_link"
+  },
+  "item": [
+    {
+      "name": "doRegister",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "body": {
+          "mode": "raw",
+          "raw": "{\r\n    \"email\": \"mail343536@mail.ru\",\r\n    \"name\": \" Rita\",\r\n    \"password\": \"1890\"\r\n}\r\n",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": {
+          "raw": "http://users.bugred.ru/tasks/rest/doregister",
+          "protocol": "http",
+          "host": [
+            "users",
+            "bugred",
+            "ru"
+          ],
+          "path": [
+            "tasks",
+            "rest",
+            "doregister"
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "doRegister Test 5.2.3",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "body": {
+          "mode": "raw",
+          "raw": "{\r\n    \"email\": \"qa895@mail.ru\",\r\n    \"name\": \" Rob\",\r\n    \"password\": \"2345\"\r\n}\r\n",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": {
+          "raw": "http://users.bugred.ru/tasks/rest/doregister",
+          "protocol": "http",
+          "host": [
+            "users",
+            "bugred",
+            "ru"
+          ],
+          "path": [
+            "tasks",
+            "rest",
+            "doregister"
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "POST doRegister",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "url": {
+          "raw": "http://users.bugred.ru/tasks/rest/doregister?email=mail353637@mail.ru&name=Rosy&password=123890",
+          "protocol": "http",
+          "host": [
+            "users",
+            "bugred",
+            "ru"
+          ],
+          "path": [
+            "tasks",
+            "rest",
+            "doregister"
+          ],
+          "query": [
+            {
+              "key": "email",
+              "value": "mail353637@mail.ru",
+              "type": "text"
+            },
+            {
+              "key": "name",
+              "value": "Rosy",
+              "type": "text"
+            },
+            {
+              "key": "password",
+              "value": "123890",
+              "type": "text"
+            }
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "createCompany Test5.2.4 Er",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "body": {
+          "mode": "raw",
+          "raw": "{\r\n  \"company_name\": \"Алкоголики и тунеядцы\",\r\n  \"company_type\": \"\",\r\n  \"company_users\": [\"test_anna@gmail.com\", \"mrak20@list.ru\"],\r\n  \"email_owner\": \"aa+1@mail.com\"\r\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": {
+          "raw": "http://users.bugred.ru/tasks/rest/createcompany",
+          "protocol": "http",
+          "host": [
+            "users",
+            "bugred",
+            "ru"
+          ],
+          "path": [
+            "tasks",
+            "rest",
+            "createcompany"
+          ]
+        }
+      },
+      "response": []
+    }
+  ]
+}
