@@ -1,87 +1,68 @@
-# Портфолио Ульяновой Дарьи
----
+# Портфолио Дарьи Ульяновой — Manual QA
 
-### 👨‍💻 Обо мне:
+## Обо мне
 
-Начинающий тестировщик/QA-специалист с  базовыми навыками ручного тестирования. Прошла обучение по курсу тестирования на stepik.org. Уверенно работаю с Confluence, Postman, Git и базами данных (SQL). Готова быстро учиться и вносить вклад в качество продукта с первого дня. Не останавливаюсь на достигнутом и продолжаю получать новые навыки и изучаю новые инструменты. Активно использую ИИ в работе и учебе.
+Manual QA Engineer с коммерческим опытом тестирования корпоративного ПО в рамках работы в ООО «НТПЦ Решение».
 
+С 28.08.2023 тестирую NormaCS / ИСС Техэксперт: проверяю новый и изменённый функционал, обновления и интеграции, выполняю smoke, functional, regression, exploratory и integration testing, воспроизвожу дефекты, оформляю баг-репорты в ASVO и выполняю retest исправлений.
 
+Отдельно развиваю навыки веб- и API-тестирования: SQL, HTTP, JSON, REST, SOAP, Postman, Swagger, DevTools, Git/Git Bash. Эти навыки получены в обучении и учебных проектах и не выдаются за коммерческий опыт.
 
+## Коммерческий опыт
 
-### 📁 Тестовая документация:
+**ООО «НТПЦ Решение» · ведущий специалист по работе с клиентами (внедрение и поддержка ПО)**  
+28.08.2023 — настоящее время
 
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" title="youtrack" alt="youtrack" width="40" height="40"/>&nbsp
-  <img src="https://img.shields.io/badge/Confluence-%23172B4D.svg?logo=confluence&logoColor=white)](https://www.atlassian.com/software/confluence)" title="jira" alt="jira" width="150" height="150" />&nbsp
+Основные QA-задачи:
 
-</div>
+- функциональное тестирование нового и изменённого функционала;
+- smoke-проверки после установки и обновлений;
+- regression testing после исправлений;
+- integration testing, в том числе взаимодействие NormaCS 4.x с Adobe Acrobat;
+- exploratory и black-box testing;
+- acceptance checks;
+- retest исправлений;
+- воспроизведение дефектов и анализ логов при технической диагностике;
+- оформление дефектов в ASVO с шагами, expected/actual result и вложениями;
+- проверка поиска, динамических папок, Acrobat/PDF, Word, CAD, установки и обновлений;
+- взаимодействие с разработчиками и технической поддержкой.
 
+[Подробнее о коммерческом опыте](06-commercial-experience/README.md)
 
-### 🛠 Тестирование веб-приложений:
+## Портфолио
 
-<div>
-  <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
-  <img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" title="postman" alt="postman" width="40" height="40" />&nbsp
-  <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="soapui" alt="soapui" width="40" height="40"/>&nbsp
-</div>
+### 01 — Web testing
+Учебный проект с полным циклом: требования → тест-план → тест-кейсы → чек-лист → баг-репорты → traceability matrix → test summary.
 
+[Перейти к проекту](01-web-testing/README.md)
 
-### 📱 Тестирование мобильных приложений:
+### 02 — API testing
+Будет добавлен отдельный учебный проект с REST API, Postman/Swagger и проверками HTTP/JSON.
 
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="android-studio" alt="android-studio" width="40" height="40"/>&nbsp
-  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>&nbsp
-  <img src="https://www.megaleechers.com/storage/Fiddler-Everywhere-Icon.png" title="fiddler" alt="fiddler" width="40" height="40"/>&nbsp
-  
-</div>
+### 03 — SQL
+Будет добавлен отдельный учебный набор SQL-запросов и задач для QA.
 
+### 04 — DevTools
+Будут добавлены учебные примеры анализа запросов, ответов, консоли и сетевых ошибок.
 
-### 💾 Работа с данными:
+### 05 — Mobile testing
+Учебные материалы по тестированию Android-приложения. Коммерческий мобильный опыт не заявляется без подтверждения.
 
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
-  
-</div>
+## Инструменты и технологии
 
+**Коммерческий опыт:** ASVO, NormaCS, ИСС Техэксперт, Adobe Acrobat; работа с логами, установками и обновлениями ПО.
 
-### ✏️ Работа с версиями:
+**Учебные навыки:** SQL, Postman, Swagger, DevTools, Git, Git Bash, REST, SOAP, HTTP, JSON.
 
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="bash" alt="bash" width="40" height="40"/>&nbsp  
-</div>
+## Сертификация и обучение
 
+- Stepik — «Тестирование ПО с нуля. Теория + Практика», 2025.
+- Stepik — «Тестирование ПО: подготовка к сертификации ISTQB Foundation», 2025.
 
+## Контакты
 
-### 📜 Образование и сертификация:
-<br>
-<br>
+- GitHub: [DariyaU/Portfolio](https://github.com/DariyaU/Portfolio)
+- Telegram: @UlyanovaDM
+- Email: heartner2013@yandex.ru
 
-Тестирование ПО с нуля. Теория + Практика
-<div>
-<img src="https://stepik.org/static/frontend/topbar_logo.svg" title="git" alt="git" width="80" height="80" />&nbsp 
-</div>  2025г. 
-<a href=Sertificate/stepik-certificate-171826-514f933.pdf> Тестирование ПО с нуля. Теория + Практика </a>
-<br>
-<br>
-
-
-Тестирование ПО: подготовка к сертификации ISTQB Foundation
-<div>
-<img src="https://stepik.org/static/frontend/topbar_logo.svg" title="git" alt="git" width="80" height="80" />&nbsp 
-</div>  2025г.
-<a href="Sertificate/stepik-certificate-16478-d73e2b8.pdf"> Тестирование ПО: подготовка к сертификации ISTQB Foundation </a>
-<br>
-<br>
-
-
-Первичные переговоры с корпоративным клиентом
-<div>
-<img src="https://github.com/Dariya666/Portfolio/blob/main/Sertificate/thumb_250x64.jpeg" title="git" alt="git" width="150" height="150" />&nbsp 
-</div>
-2025г.
-<a href="https://github.com/Dariya666/Portfolio/blob/main/Sertificate/1_6_%D0%9F%D0%B5%D1%80%D0%B2%D0%B8%D1%87%D0%BD%D1%8B%D0%B5_%D0%BF%D0%B5%D1%80%D0%B5%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D1%8B_%D1%81_%D0%BA%D0%BE%D1%80%D0%BF%D0%BE%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%BC_%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%BE%D0%BC.pdf"> Первичные переговоры с корпоративным клиентом </a>
-<br>
-<br>
-
+> Портфолио содержит только реальный опыт и учебные материалы. Конфиденциальные данные работодателя и клиентов не публикуются.
