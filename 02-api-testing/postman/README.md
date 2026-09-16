@@ -36,16 +36,4 @@
 - path/query parameters, JSON, form-data;
 - OAuth2-related настройки в готовой коллекции.
 
-## Что подтверждает эта практика
 
-- REST API;
-- GET / POST / PUT / DELETE;
-- HTTP status codes;
-- JSON request body;
-- path и query parameters;
-- headers;
-- переменные Postman;
-- базовые Postman scripts;
-- позитивные и негативные проверки.
-
-Коммерческий API-тестинг этой практикой не заявляется.
