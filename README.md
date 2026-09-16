@@ -59,10 +59,10 @@
 
 **Реальные примеры найденных дефектов:**
 
-- [RMT-86 — нарушение порядка элементов в чек-листе относительно требований](05-mobile-testing/bug-reports/RMT-86-checklist-order.md)
-- [RMT-85 — несоответствие цвета активной кнопки макету Figma](05-mobile-testing/bug-reports/RMT-85-active-button-color.md)
+- [RMT-86 — нарушение порядка элементов в чек-листе относительно требований](05/bug-reports/RMT-86-checklist-order.md)
+- [RMT-85 — несоответствие цвета активной кнопки макету Figma](05/bug-reports/RMT-85-active-button-color.md)
 
-[QA case study](05-mobile-testing/README.md) · [QA checklist](05-mobile-testing/CHECKLIST.md)
+[QA case study](05/README.md) · [QA checklist](05/CHECKLIST.md)
 
 ---
 
