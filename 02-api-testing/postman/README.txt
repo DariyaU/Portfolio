@@ -1,1 +1,0 @@
-The JSON collections in this folder are the actual educational Postman collections used for the portfolio. Sensitive-looking sample credentials are sanitized where necessary.
